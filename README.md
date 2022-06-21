@@ -1,0 +1,2 @@
+# Frixin
+This project was made for Smart India Hackathon  , Aim of the project was to solve the problem of Registeration of dairy product farmers , Since they are not very  educated they face issues like filling of the forms and details and use of mobile phones so we created an Flutter Application so that we can take their details via voice speech recognition and save it in database Whatever Language they speak will be converted into English text and  Stored in our database like Phone numbers and Adhaar Numbers 
